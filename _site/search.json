@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-21T01:04:22+08:00"
+      "last_modified": "2021-06-21T01:17:00+08:00"
     },
     {
       "path": "index.html",
       "title": "Group Project Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-21T01:04:22+08:00"
+      "last_modified": "2021-06-21T01:17:01+08:00"
     }
   ],
   "collections": ["posts/posts.json"]
