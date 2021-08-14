@@ -1,0 +1,12 @@
+name: "Project1"
+title: "Group_Project"
+description: |
+  Group_Project
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
