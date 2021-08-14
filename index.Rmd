@@ -3,4 +3,3 @@ title: "Group Project Blog"
 site: distill::distill_website
 listing: posts
 ---
-hello world
